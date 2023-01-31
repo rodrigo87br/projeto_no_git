@@ -6,7 +6,7 @@
 # quadrado em cada um dos códigos postais.
 # 4. Analisar cada uma das colunas de um modo mais descrito.
 # 5. Uma mapa com a densidade de portfólio por região e também densidade de preço.
-# 6. Checar a variação anual de preço.
+# 6. Checar a variação anual de preço.  
 # 7. Checar a variação diária de preço.
 # 8. Conferir a distribuição dos imóveis por:
 # - preço, - Número de quartos - Numero de banheiros - Numero de  andares - Vista para a água ou não
