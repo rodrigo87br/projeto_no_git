@@ -10,6 +10,7 @@
 # 7. Checar a variação diária de preço.
 # 8. Conferir a distribuição dos imóveis por:
 # - preço, - Número de quartos - Numero de banheiros - Numero de  andares - Vista para a água ou não
+# 9
 
 import pandas as pd
 import streamlit as st
